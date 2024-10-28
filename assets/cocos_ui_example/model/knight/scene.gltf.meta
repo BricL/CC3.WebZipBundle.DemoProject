@@ -83,7 +83,7 @@
         "premultiplyAlpha": false,
         "anisotropy": 0,
         "isUuid": false,
-        "imageUuidOrDatabaseUri": "db://assets/_cocos_ui_example/model/knight/textures/Material_baseColor.png"
+        "imageUuidOrDatabaseUri": "db://assets/cocos_ui_example/model/knight/textures/Material_baseColor.png"
       },
       "id": "e39f7",
       "name": "UnnamedTexture.texture",
@@ -161,7 +161,7 @@
     },
     "imageMetas": [
       {
-        "uri": "db://assets/_cocos_ui_example/model/knight/textures/Material_baseColor.png"
+        "uri": "db://assets/cocos_ui_example/model/knight/textures/Material_baseColor.png"
       }
     ],
     "lods": {
