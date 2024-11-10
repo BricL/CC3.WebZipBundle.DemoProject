@@ -1,4 +1,4 @@
-# CC3.H5LoadBooster
+# CC3.WebZipBundle Demo
 Cocos Creator 3.x 擴展 [WebZipBundle](https://github.com/BricL/CC3.WebZipBundle) 演示範例。
 
 ## DEMO (Host on itch.io)
