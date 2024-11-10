@@ -1,4 +1,4 @@
 [submodule "extensions/web-zip-bundle"]
 	path = extensions/web-zip-bundle
 	url = https://github.com/BricL/CC3.WebZipBundle.git
-	branch = independent
+	branch = master
