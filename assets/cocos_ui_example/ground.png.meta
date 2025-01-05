@@ -40,7 +40,7 @@
     "hasAlpha": false,
     "fixAlphaTransparencyArtifacts": false,
     "compressSettings": {
-      "useCompressTexture": true,
+      "useCompressTexture": false,
       "presetId": "83DZUFnz1Hiqcw+y5ubvUK"
     }
   }
